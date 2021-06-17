@@ -61,6 +61,6 @@ while True:
     pasokh= input("bazam mashgh dari? are ya na \n")
     if pasokh == "are":
         continue
-    elif pasokh == "na":
+    else:
         print("bye")
         break
